@@ -27,9 +27,15 @@ a {
 }
 
 nav {
+	position: sticky;
+	position: -webkit-sticky;
+
 	background-color: #1fd158;
 }
 
 header {
+	position: sticky;
+	position: -webkit-sticky;
+
 	background-color: #1fd158;
 }
